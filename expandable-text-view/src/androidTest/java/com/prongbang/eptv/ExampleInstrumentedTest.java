@@ -1,4 +1,4 @@
-package com.prongbang.widget;
+package com.prongbang.eptv;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

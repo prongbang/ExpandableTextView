@@ -1,4 +1,4 @@
-package com.prongbang.widget
+package com.prongbang.eptv
 
 import android.animation.ObjectAnimator
 import android.content.Context

@@ -1,4 +1,4 @@
-package com.prongbang.widget;
+package com.prongbang.eptv;
 
 import org.junit.Test;
 
