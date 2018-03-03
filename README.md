@@ -1,6 +1,8 @@
 # Expandable Text View
 Expandable Text View Android Library
 
+![screenshot gif](https://github.com/prongbang/ExpandableTextView/blob/master/screenshots/screenshots.gif?raw=true)
+
 ## Download
 > build.gradle
 ```gradle
