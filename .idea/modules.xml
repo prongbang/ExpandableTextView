@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExpandableTextView.iml" filepath="$PROJECT_DIR$/ExpandableTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/ExpandableTextView-app.iml" filepath="$PROJECT_DIR$/app/ExpandableTextView-app.iml" group="ExpandableTextView/app" />
+      <module fileurl="file://$PROJECT_DIR$/expandable-text-view/ExpandableTextView-expandable-text-view.iml" filepath="$PROJECT_DIR$/expandable-text-view/ExpandableTextView-expandable-text-view.iml" group="ExpandableTextView/expandable-text-view" />
+      <module fileurl="file://$PROJECT_DIR$/Workspaces-ExpandableTextView.iml" filepath="$PROJECT_DIR$/Workspaces-ExpandableTextView.iml" group="ExpandableTextView" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/expandable-text-view/expandable-text-view.iml" filepath="$PROJECT_DIR$/expandable-text-view/expandable-text-view.iml" />
     </modules>

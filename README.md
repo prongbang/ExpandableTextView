@@ -8,22 +8,26 @@ Expandable Text View Android Library
 ```gradle
 allprojects {
     repositories {
-        ...
         maven { url 'https://jitpack.io' }
     }
 }
+```
 
-...
+### Support Library
 
-dependencies {
-    implementation 'com.github.prongbang:expandabletextview:1.0.1'
-}
+```gradle
+implementation 'com.github.prongbang:expandabletextview:1.0.1'
+```
+
+### AndroidX
+
+```gradle
+implementation 'com.github.prongbang:expandabletextview:2.0.0'
 ```
 
 ## How to use
 > MainActivity.kt
 ```kotlin
-
   btnExpand.setOnClickListener {
       tvDescription.expandTextView()
   }
@@ -48,8 +52,8 @@ dependencies {
         app:autoDuration="true"
         android:text="@string/label_description" />
 ```
-> Property
-```
+> Properties
+```xml
 app:duration="200"
 app:collapsedMaxLines="5"
 app:autoDuration="true"
